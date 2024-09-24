@@ -1,7 +1,6 @@
 # Bank-Loan-Analysis
 
-## Tool Used:
-MySQL, PowerBI
+#### Tool Used: MySQL, PowerBI
 
 - Developed an interactive loan analysis dashboard using SQL and Power BI to monitor and assess loan performance, focusing on good versus bad loan KPIs.
  
